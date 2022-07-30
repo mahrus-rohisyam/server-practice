@@ -3,7 +3,7 @@ import bcrypt from 'bcrypt';
 import { UserModel } from "../models";
 import mongoose from "mongoose";
 
-const registerUser = (req: Request, res: Response) => {
+const registerUser = async (req: Request, res: Response) => {
   const { username, password, email } = req.body
 
     bcrypt.hash(password, 10, (hashError, hash) => {
