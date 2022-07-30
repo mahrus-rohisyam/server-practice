@@ -1,0 +1,63 @@
+Stack
+- MERN
+
+# Front-End
+- JS
+-- Fundamental
+--- Functions
+--- OOP
+--- Looping
+--- Data manipulation
+
+- React
+-- Hooks
+--- useState()
+--- useEffect()
+
+- Slicing
+-- Pixel perfect
+
+- Integration
+-- Get data from Back-End
+-- Serving data
+
+# Back-End
+- Native
+-- SQL
+-- noSQL
+-- ORM
+
+- Driver
+-- mysql (driver)
+-- mongodb (driver)
+
+- Server
+-- NodeJS
+--- File System
+-- ExpressJS
+--- Routing
+--- Middleware
+
+-API
+--Endpoint
+
+Example: 
+api/v1/user
+-- get
+-- post
+-- patch
+-- delete
+
+api/v1/blog
+-- get
+-- post
+-- patch
+-- delete
+
+api.yourdomain.com/v1/user
+api.yourdomain.com/v1/blog
+
+Security
+- Auth
+-- JWT
+- Caching
